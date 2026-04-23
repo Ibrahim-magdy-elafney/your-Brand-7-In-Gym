@@ -1,0 +1,51 @@
+html {
+
+    scroll-behavior: smooth;
+
+}
+
+body {
+
+
+    background: #0f0a1a;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 250px;
+
+
+}
+
+h1:hover {
+
+    color: #a855f7;
+
+}
+
+
+p:hover {
+
+    color: #a855f7;
+
+}
+
+
+.t1 {
+
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+
+}
+
+.t2 {
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+
+}
